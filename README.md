@@ -19,3 +19,4 @@ $deviceTokens = array('cdd92f4ce847efa5c7f');
 PushyAPI::sendPushNotification($data, $deviceTokens);
 ````
 
+Make sure to replace SECRET_API_KEY with your app's Secret API Key listed in the  [Dashboard](https://dashboard.pushy.me/).
