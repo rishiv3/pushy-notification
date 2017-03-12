@@ -1,4 +1,4 @@
-# Pushy Notification
+# Pushy Notifications with PHP
 Lightning-fast, highly-reliable push notification delivery
 
 Send push notifications to devices with this PHP code sample.
